@@ -1,0 +1,54 @@
+.App {
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+}
+
+.card-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form-group1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 5px;
+}
+input,
+label {
+  margin: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.title-name {
+  display: flex;
+}
+
+.card {
+  text-align: left;
+  color: white;
+  background-color: rgb(199, 8, 8);
+}
+
+.card-body {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+}
+
+.container {
+  border: 1px;
+  border-radius: 10px;
+  background-color: rgb(243, 239, 243);
+}
+
+.btn {
+  margin: 2px;
+}
+
+.divbtn {
+  float: left;
+}
